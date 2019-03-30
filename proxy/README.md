@@ -1,0 +1,1 @@
+类UserImpl实现了接口User，类GetProxy使用代理模式增强了User中的save方法，并在类TestProxy中进行测试

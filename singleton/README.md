@@ -12,3 +12,6 @@
 ### 缺点
 没有接口，不能继承，与单一职责原则冲突，一个类应该只关心内部逻辑，而不关心外面怎么样来实例化
 
+## Singleton Pattern Demo
++ SingleObject：提供单一对象的类
++ SingletonTest：测试用例
